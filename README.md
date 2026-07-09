@@ -76,28 +76,57 @@ Grafana:
 For creating dashboards and visualization.
 
 
-## Learning Plan
+## Medium Article Series
 
-Part 1:
-Git and GitHub basics
+I am documenting this complete implementation step by step on Medium.
 
-Part 2:
-Creating CI/CD pipeline using Azure DevOps
+### Part 0: Environment Setup
 
-Part 3:
-Infrastructure automation using Terraform
+Topics covered:
 
-Part 4:
-Docker and container registry
+- GitHub account creation
+- Git installation
+- Git Bash setup
+- Visual Studio Code installation
+- Git basic configuration
 
-Part 5:
-Adding security checks into pipeline
+Article:
+https://medium.com/@sharath_s3/building-enterprise-devsecops-pipeline-using-azure-devops-and-aws-ef0a3d8d75ca
 
-Part 6:
-Deploying application into Kubernetes
 
-Part 7:
-Monitoring using Prometheus and Grafana
+### Part 1: Source Control using Git and GitHub
 
+Topics covered:
+
+- Source control basics
+- SSH authentication with GitHub
+- Repository creation
+- Git initialization
+- Commit workflow
+- Push code to GitHub
+
+Article:
+https://medium.com/@sharath_s3/building-enterprise-devsecops-pipeline-using-azure-devops-and-aws-0849c814c733
+
+
+Upcoming:
+
+Part 2: Azure DevOps CI Pipeline
+
+Part 3: Terraform with AWS
+
+Part 4: Docker and AWS ECR
+
+Part 5: DevSecOps Security Integration
+
+Part 6: Kubernetes Deployment using Amazon EKS
+
+Part 7: Monitoring using Prometheus and Grafana
+
+## Current Status
+
+Project is currently in progress.
+
+Each part will be implemented practically and updated in this repository along with Medium documentation.
 
 The goal is not only to learn individual tools, but to understand how these tools connect together in a real project.
