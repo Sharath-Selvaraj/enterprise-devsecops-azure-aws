@@ -111,17 +111,24 @@ https://medium.com/@sharath_s3/building-enterprise-devsecops-pipeline-using-azur
 
 Upcoming:
 
-Part 2: Azure DevOps CI Pipeline
+Part 2: Branching and Pull Requests
 
-Part 3: Terraform with AWS
+Part 3: Azure DevOps Project Setup
 
-Part 4: Docker and AWS ECR
+Part 4: Azure DevOps CI Pipeline
 
-Part 5: DevSecOps Security Integration
+Part 5: Infrastructure as Code using Terraform on AWS
 
-Part 6: Kubernetes Deployment using Amazon EKS
+Part 6: Docker and AWS ECR
 
-Part 7: Monitoring using Prometheus and Grafana
+Part 7: DevSecOps Security Integration
+
+Part 8: Deploying Application to Amazon EKS
+
+Part 9: Monitoring using Prometheus and Grafana
+
+Part 10: Complete Enterprise DevSecOps Pipeline
+
 
 ## Current Status
 
